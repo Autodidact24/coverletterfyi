@@ -24,9 +24,8 @@ const Home: NextPage = () => {
     }
   };
 
-  const prompt = `Generate 2 ${vibe} cover letters clearly labelled "1." and "2.". ${
-    vibe === "Professional"
-      ? "Highlight the overlapping skills in the resume and the job description."
+  const prompt = `Generate 2 ${vibe} cover letters clearly labelled "1." and "2.".
+      ? "Highlight experience and skills that alligns with the context ${jobDescription}.."
       : null
   }
       Make sure that the user has provided the resume and the job description. Otherwise, ask them for the same. Make sure each generated coverletter is less than 200 words, and base them on this context: ${resume}${
