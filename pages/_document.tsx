@@ -13,22 +13,22 @@ class MyDocument extends Document {
           <meta property="og:site_name" content="coverletter.fyi" />
           <meta
             property="og:description"
-            content="Generate your next Twitter bio in seconds."
+            content="Generate Cover Letters for your Job Applications."
           />
-          <meta property="og:title" content="Twitter Bio Generator" />
+          <meta property="og:title" content="Cover Letter Generator" />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:title" content="Twitter Bio Generator" />
+          <meta name="twitter:title" content="Cover Letter Generator" />
           <meta
             name="twitter:description"
-            content="Generate your next Twitter bio in seconds."
+            content="Generate Cover Letters for your Job Applications."
           />
           <meta
             property="og:image"
-            content="https://twitterbio.com/og-image.png"
+            content="https://coverletter.fyi/og-image.png"
           />
           <meta
             name="twitter:image"
-            content="https://twitterbio.com/og-image.png"
+            content="https://coverletter.fyi/og-image.png"
           />
         </Head>
         <body>
