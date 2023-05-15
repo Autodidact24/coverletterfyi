@@ -10,7 +10,7 @@ class MyDocument extends Document {
             name="description"
             content="Generate Cover Letters for your Job Applications."
           />
-          <meta property="og:site_name" content="coverletter.com" />
+          <meta property="og:site_name" content="coverletter.fyi" />
           <meta
             property="og:description"
             content="Generate your next Twitter bio in seconds."
