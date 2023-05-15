@@ -29,7 +29,7 @@ const Home: NextPage = () => {
       ? "Highlight the overlapping skills in the resume and the job description."
       : null
   }
-      Make sure that the user has provided the resume and the job description. Otherwise, ask them for the same. Make sure each generated biography is less than 200 words, and base them on this context: ${resume}${
+      Make sure that the user has provided the resume and the job description. Otherwise, ask them for the same. Make sure each generated coverletter is less than 200 words, and base them on this context: ${resume}${
     resume.slice(-1) === "." ? "" : "."
   }`;
 
